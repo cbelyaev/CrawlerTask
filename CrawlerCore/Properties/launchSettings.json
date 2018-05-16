@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CrawlerCore": {
+      "commandName": "Project",
+      "commandLineArgs": "-i ..\\..\\..\\..\\urls.txt -o ..\\..\\..\\..\\results.txt"
+    }
+  }
+}
